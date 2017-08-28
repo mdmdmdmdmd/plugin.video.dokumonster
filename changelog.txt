@@ -1,5 +1,6 @@
 0.1.3 (27.08.2017)
-- removed DerSphere as addon maintainer
+- removed DerSphere as addon maintainer (versions prior to 0.1.3)
+- added mdmdmdmdmd as addon maintainer
 - fixed the api (switched to wordpress api, not everything works yet)
 - added "Topics"
 - changed default view "Thumbnails" to off by default
