@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.video.dokumonster" name="dokumonster.de" version="0.1.3" provider-name="Tristan Fischer (sphere@dersphere.de)">
+<addon id="plugin.video.dokumonster" name="dokumonster.de" version="0.1.3" provider-name="mdmdmdmdmd">
     <requires>
         <import addon="xbmc.python" version="2.1.0"/>
         <import addon="script.module.simplejson" version="2.0.10"/>
@@ -14,9 +14,9 @@
         <language>en de</language>
         <platform>all</platform>
         <website>http://dokumonster.de/</website>
-        <source>https://github.com/dersphere/plugin.video.dokumonster</source>
+        <source>https://github.com/mdmdmdmdmd/plugin.video.dokumonster</source>
         <forum></forum>
-        <email>sphere@dersphere.de</email>
+        <email></email>
         <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
         <summary lang="de">Deutsche Dokus</summary>
         <summary lang="en">German documentaries</summary>
